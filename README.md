@@ -6,9 +6,9 @@ Grup 10
 
 Ege Kula - Scrum Master,Developer
 Ömer İlbilgi - Developer, UI/UX Designer
-Çiğse Ezgi - Developer, Product Owner
+Çiğse Nur Eşgi - Developer, Product Owner
 Emre Yiğit Öztürk - Developer
-Yusuf Taha - Developer
+Yusuf Taha Doğan - Developer
 
 ## Ürün İsmi
 
